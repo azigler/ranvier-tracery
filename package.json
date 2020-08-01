@@ -1,0 +1,15 @@
+{
+  "name": "ranvier-tracery",
+  "version": "1.0.0",
+  "description": "Generate and manipulate text in Ranvier with Tracery",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azigler/ranvier-tracery.git"
+  },
+  "author": "Andrew Zigler <andrewzigler@gmail.com> (https://www.andrewzigler.com)",
+  "license": "MIT",
+  "dependencies": {
+    "tracery-grammar": "^2.7.4",
+    "sprintf-js": "^1.1.2"
+  }
+}
