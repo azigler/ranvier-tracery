@@ -2,7 +2,7 @@
 
 > Generate and manipulate text in Ranvier with Tracery
 
-[Tracery](https://github.com/galaxykate/tracery) is a JavaScript library by [GalaxyKate](https://twitter.com/GalaxyKate) that uses grammars to generate surprising new text. This bundle includes utility functions that allow you to easily manipulate `Ranvier` entities with customizable grammars. By using this bundle, you can procedurally generate game content with flexibility and ease. This bundle also includes a setup for a centralized grammar that can be shared between entities.
+[Tracery](https://github.com/galaxykate/tracery) is a JavaScript library by [GalaxyKate](https://twitter.com/GalaxyKate) that uses grammars to generate surprising new text. This bundle includes utility functions that allow you to easily manipulate Ranvier entities with customizable grammars. By using this bundle, you can procedurally generate game content with flexibility and ease. This bundle also includes a setup for a centralized grammar that can be shared between entities.
 
 To use this bundle, you will need a specific checkout of Ranvier. You __MUST__ use my experimental fork ([azigler/zigmud](https://github.com/azigler/zigmud)) alongside a checkout of my experimental core:develop branch ([azigler/core:develop](https://github.com/azigler/core/tree/develop)).
 
